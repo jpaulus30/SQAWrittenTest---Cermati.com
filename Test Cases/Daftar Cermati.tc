@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Daftar Cermati</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d18f5a2a-0f51-4b31-9009-9e5b8d439944</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>62ae5da1-128c-446d-a9b4-321a1d1201fb</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
